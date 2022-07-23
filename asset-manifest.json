@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/master-of-hof/static/css/main.50cb081f.css",
+    "main.js": "/master-of-hof/static/js/main.58d10c20.js",
+    "index.html": "/master-of-hof/index.html",
+    "main.50cb081f.css.map": "/master-of-hof/static/css/main.50cb081f.css.map",
+    "main.58d10c20.js.map": "/master-of-hof/static/js/main.58d10c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50cb081f.css",
+    "static/js/main.58d10c20.js"
+  ]
+}
